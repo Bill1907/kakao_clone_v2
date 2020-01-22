@@ -10,7 +10,7 @@
     font-size: 24px;
     font-weight: 600;
 }
-.header.header__icon{
+.header .header__icon{
     font-size: 20px;
     margin-left: 20px;
     cursor: pointer;
